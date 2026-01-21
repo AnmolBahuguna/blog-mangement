@@ -178,16 +178,8 @@ vercel --prod
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with basic CRUD operations
-- **v1.1.0** - Added user authentication and authorization
-- **v1.2.0** - Enhanced security features and API documentation
 
 ## 🔮 Future Enhancements
 
